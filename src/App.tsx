@@ -1,5 +1,5 @@
 import React, { ImgHTMLAttributes, RefObject, useRef } from 'react';
-import './app.css'
+import './App.css'
 function App() {
   const container1 = useRef<HTMLDivElement>(null)
   const container2 = useRef<HTMLDivElement>(null)
